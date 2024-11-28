@@ -1,0 +1,5 @@
+a=int(input("FIRST")) 
+b=int(input("SECOND"))
+hi= str(a+b)
+print(hi +" is the sum of numbers")
+print("Floor division of numbers is", str(a/b))
