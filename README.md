@@ -45,8 +45,8 @@ Whether you’re solving real-world problems with Python, exploring automation o
 
 ## 📬 Contact
 
--📧 Email: amulya.gupta.2556@gdgoenkarohini.edu.in
--🐙 GitHub: AmulyaInnovates
+- 📧 Email: amulya.gupta.2556@gdgoenkarohini.edu.in
+- 🐙 GitHub: AmulyaInnovates
 
 ---
 
