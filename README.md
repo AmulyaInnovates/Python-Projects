@@ -8,8 +8,8 @@ Welcome to my Python repository — a space where I experiment, automate, analyz
 
 ![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)
 ![Editor](https://img.shields.io/badge/Editor-Amulya--Gupta-yellow?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/AmulyaInnovates/Python?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/AmulyaInnovates/Python?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/AmulyaInnovates/Python-Projects?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/AmulyaInnovates/Python-Projecs?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
